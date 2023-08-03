@@ -4,7 +4,7 @@
   </a>
   <h3 align="center">Koyeb Serverless Platform</h3>
   <p align="center">
-    Deploy a `node-schedule` application on Koyeb
+    Deploy a <code>node-schedule</code> application on Koyeb
     <br />
     <a href="https://koyeb.com">Learn more about Koyeb</a>
     ·

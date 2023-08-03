@@ -21,7 +21,7 @@ Koyeb is a developer-friendly serverless platform to deploy apps globally. No-op
 
 This repository contains is designed to show how a `node-schedule` application can be deployed to Koyeb.  The demo application aggregates the top ten most-commented on Hacker news posts and sends them to a designated email address using a cron-like schedule.
 
-You can follow the [associated tutorial]() to learn more about the application and how it works.
+You can follow the [associated tutorial](https://koyeb.com/tutorials/how-to-use-node-schedule-to-build-and-deploy-a-hn-aggregator) to learn more about the application and how it works.
 
 ## Getting Started
 
@@ -29,7 +29,7 @@ Follow the steps below to deploy and run the Nuxt application on your Koyeb acco
 
 ### Requirements
 
-You need a Koyeb account to successfully deploy and run this application. If you don't already have an account, you can sign-up for free [here](https://app.koyeb.com/auth/signup).
+You need a Koyeb account to successfully deploy and run this application. If you don't already have an account, you can [sign-up for free](https://app.koyeb.com/auth/signup).
 
 You also need a [Mailgun account](https://www.mailgun.com/) to send the email with the aggregated links.  From your Mailgun account, you need to configure an [authorized recipient email address](https://help.mailgun.com/hc/en-us/articles/217531258-Authorized-Recipients) and then retrieve the following details associated with your account:
 
@@ -63,7 +63,7 @@ If you want to customize and enhance this application, you need to fork this rep
 If you used the **Deploy to Koyeb** button, you can simply link your service to your forked repository to be able to push changes.
 Alternatively, you can manually create the application as described below.
 
-On the [Koyeb Control Panel](//app.koyeb.com/), click the **Create App** button to go to the App creation page.
+On the [Koyeb Control Panel](https://app.koyeb.com/), click the **Create App** button to go to the App creation page.
 
 1. Click **Create App** in the Koyeb control panel.
 2. Select **GitHub** as the deployment option.
